@@ -1,5 +1,5 @@
 ## Hai, Saya Rud Az
-[![Github Badge](https://img.shields.io/badge/-Exccr-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Exccr/)](https://www.github.com/Exccr/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=siapa.me/)](siapa.me/) <p align='left'> You can view my resume <a href='Jl Nangka I Rt1/Rw2 Dagan, Solokuro, Lamongan ' target=_blank><u>here</u>.</a></p>
+[![Github Badge](https://img.shields.io/badge/-Exccr-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Exccr/)](https://www.github.com/Exccr/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=siapa.me/)](siapa.me/) <p align='left'>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Exccr alt=Exccr /> </p>
 
